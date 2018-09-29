@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PayHook</string>
+
+    <string name="msg_permission_fail">请授予必要的存储权限,存储目录在 /sdcard/com.zhenl.payhook 下.</string>
+</resources>
